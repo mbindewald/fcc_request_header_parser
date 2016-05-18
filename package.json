@@ -1,0 +1,27 @@
+{
+  "name": "request_header_parser",
+  "version": "1.0.0",
+  "description": "My solution to the request header parser API project from Free Code Camp",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^3.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js (then go to url in browser)",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbindewald/fcc_request_header_parser.git"
+  },
+  "keywords": [
+    "fcc"
+  ],
+  "author": "Matthew Bindewald",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbindewald/fcc_request_header_parser/issues"
+  },
+  "homepage": "https://github.com/mbindewald/fcc_request_header_parser#readme"
+}
